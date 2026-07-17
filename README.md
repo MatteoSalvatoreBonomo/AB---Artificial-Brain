@@ -7,6 +7,8 @@
 
 - Il AB è dotato di pensiero autonomo si dall'inizio, e di un sistema di premiazione (sentimenti).
 
+- mappatura cerebrale su `AB.pdf`.
+
 # FEATURES IN SVILUPPO:
 - modello ML creato tramite phyton che gestisca ogni area separatamente.
   
